@@ -1,0 +1,4 @@
+fetchgitusers\controller\GitController.class
+fetchgitusers\model\GitUser.class
+fetchgitusers\model\GitFetchRecord.class
+fetchgitusers\main\GitMain.class
